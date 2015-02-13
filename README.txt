@@ -17,7 +17,7 @@ RULES & SCORING
 
 8. Press 'Esc' key to close the game.
 
-Moves
+MOVES
 
 	MOUSE    - Move Mose around to set the angle of strike hold left mouse key to set the power and release to strike.
 	KEYBOARD - Use "a" and "s" keys to move the striker
